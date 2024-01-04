@@ -1,0 +1,14 @@
+
+b
+java:S1659
+"@Declare "max" and all following declarations on a separate line.(±åØ’üÿÿÿÿ8ÆÏþ”Í1
+G	java:S106"+Replace this use of System.out by a logger.(¬ê¥ž8ÊÏþ”Í1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œŸü­üÿÿÿÿ8Èæƒ•Í1
+L	java:S106"+Replace this use of System.out by a logger.(œŸü­üÿÿÿÿ8ÊÏþ”Í1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(€®óÄýÿÿÿÿ8Êæƒ•Í1
+L	java:S106"+Replace this use of System.out by a logger.(€®óÄýÿÿÿÿ8íÙÿ”Í1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í°®¹ÿÿÿÿÿ8Êæƒ•Í1
+L	java:S106"+Replace this use of System.out by a logger.(Í°®¹ÿÿÿÿÿ8íÙÿ”Í1
